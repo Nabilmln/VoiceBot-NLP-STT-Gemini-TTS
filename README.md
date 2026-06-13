@@ -57,4 +57,4 @@ Proyek ini dikembangkan sebagai **tugas Ujian Akhir Semester (UAS)** pada mata k
 
 ## 👤 Penulis
 
-Dikembangkan oleh **[Nama Kamu]** — Mahasiswa Informatika, Universitas Syiah Kuala
+Dikembangkan oleh M Nabil Maulana dan Farhanul Khair — Mahasiswa Informatika, Universitas Syiah Kuala
